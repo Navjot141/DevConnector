@@ -1,6 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://navjotnagra123:navjotnagra123@cluster0.qlntgz7.mongodb.net/?retryWrites=true&w=majority",
+    "mongoURI": "",
     "jwtSecret":"mysecrettoken",
-    "githubClientId":"a1c0670b6f2f544db9a1",
-    "githubSecret":"618af6209d529e2c2eed2a25b109513a4ef6c8c9"
+    "githubClientId":"",
+    "githubSecret":""
 }
